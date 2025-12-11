@@ -40,7 +40,7 @@ Estoy desarrollando una aplicación **LegalTech** Full Stack diseñada para anal
 
 ### 📫 Conectemos
 
-Estoy abierta a oportunidades de prácticas y colaboraciones. ¡Me encanta hablar de código!
+Estoy abierta a oportunidades de prácticas y colaboraciones. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luz-vicent-gigante" target="_blank">
