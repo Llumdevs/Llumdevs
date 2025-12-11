@@ -10,7 +10,7 @@ Soy una desarrolladora apasionada por crear soluciones tecnológicas que resuelv
 
 Estoy desarrollando una aplicación **LegalTech** Full Stack diseñada para analizar y explicar nóminas laborales mediante IA.
 
-| Backend (Cerebro) 🧠 | Frontend (Rostro) 📱 |
+| Backend | Frontend |
 | :--- | :--- |
 | **Tecnología:** Python, FastAPI, OpenAI, OCR | **Tecnología:** Flutter (Dart), Material 3 |
 | **Destacado:** Arquitectura por capas, Seguridad CORS, Gestión de entornos (.env) | **Destacado:** Gestión de estados, UX Reactiva, Conexión API REST |
@@ -38,24 +38,15 @@ Estoy desarrollando una aplicación **LegalTech** Full Stack diseñada para anal
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Llumdevs&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Luz's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llumdevs&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
-</p>
-
----
-
 ### 📫 Conectemos
 
 Estoy abierta a oportunidades de prácticas y colaboraciones. ¡Me encanta hablar de código!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/luz-vicent-gigante" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_EMAIL@GMAIL.COM">
+  <a href="mailto:luzvicentgigante@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
