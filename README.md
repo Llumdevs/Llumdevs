@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hola, soy Luz Vicent 👋
 
-<!--
-**Llumdevs/Llumdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Junior Full Stack Developer | Entusiasta de la IA & Automatización
 
-Here are some ideas to get you started:
+Soy una desarrolladora apasionada por crear soluciones tecnológicas que resuelvan problemas reales. Actualmente estoy enfocada en la integración de **Inteligencia Artificial** en aplicaciones web y móviles, buscando siempre una arquitectura limpia y eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Proyecto Destacado: Mind Your Business (MYB)
+
+Estoy desarrollando una aplicación **LegalTech** Full Stack diseñada para analizar y explicar nóminas laborales mediante IA.
+
+| Backend (Cerebro) 🧠 | Frontend (Rostro) 📱 |
+| :--- | :--- |
+| **Tecnología:** Python, FastAPI, OpenAI, OCR | **Tecnología:** Flutter (Dart), Material 3 |
+| **Destacado:** Arquitectura por capas, Seguridad CORS, Gestión de entornos (.env) | **Destacado:** Gestión de estados, UX Reactiva, Conexión API REST |
+| [Ver Repositorio Backend](https://github.com/Llumdevs/myb-backend) | [Ver Repositorio Frontend](https://github.com/Llumdevs/myb-frontend) |
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+**Lenguajes & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+**Herramientas & IA**
+<p>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Llumdevs&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Luz's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llumdevs&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Conectemos
+
+Estoy abierta a oportunidades de prácticas y colaboraciones. ¡Me encanta hablar de código!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
