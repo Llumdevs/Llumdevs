@@ -6,7 +6,7 @@ Soy una desarrolladora apasionada por crear soluciones tecnológicas que resuelv
 
 ---
 
-### 🔭 Proyecto Destacado: Mind Your Business (MYB)
+### 🔭 Proyecto Destacado: Mind Your Business (MYB) [in progress...]
 
 Estoy desarrollando una aplicación **LegalTech** Full Stack diseñada para analizar y explicar nóminas laborales mediante IA.
 
