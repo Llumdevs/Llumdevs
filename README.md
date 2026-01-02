@@ -6,7 +6,9 @@ Soy una desarrolladora apasionada por crear soluciones tecnológicas que resuelv
 
 ---
 
-### 🔭 Proyecto Destacado: Mind Your Business (MYB) [in progress...]
+### 🔭 Proyectos
+
+##MYB
 
 Estoy desarrollando una aplicación **LegalTech** Full Stack diseñada para analizar nóminas laborales, explicar conceptos financieros y visualizar la evolución salarial mediante IA.
 
@@ -14,7 +16,13 @@ Estoy desarrollando una aplicación **LegalTech** Full Stack diseñada para anal
 | :--- | :--- |
 | **Tecnologías:** Python, FastAPI, MongoDB (Docker), OpenAI (GPT-4 Vision), SpaCy. | **Tecnologías:** Flutter (Dart), Material 3, fl_chart. |
 | **Destacado:** Arquitectura profesional con **Logs centralizados**, persistencia de datos NoSQL con **Beanie ODM**, anonimización de datos sensibles y CRUD completo. | **Destacado:** Arquitectura limpia y modular (Widgets), visualización de datos financieros (Gráficas interactivas), gestión de estado y UX nativa (Swipe-to-delete). |
-| [Ver Repositorio Backend](https://github.com/Llumdevs/myb-backend) | [Ver Repositorio Frontend](https://github.com/Llumdevs/myb-frontend) |
+| [Ver Repositorio Showcase](https://github.com/Llumdevs/myb-portfolio-showcase) | 
+
+---
+
+##MindyApp
+
+[building...]
 
 ---
 
