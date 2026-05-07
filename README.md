@@ -23,7 +23,6 @@
 
 - 🔍 Búsqueda activa de rol junior AI / Data Engineer
 - 🎓 AWS Cloud Practitioner (en progreso)
-- 🏢 Co-fundadora de [Llumdevs](https://github.com/Llumdevs) · agencia de IA y automatización
 
 ---
 
