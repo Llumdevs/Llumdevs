@@ -21,7 +21,7 @@
 
 ### 📌 Actualmente
 
-- 🔍 Búsqueda activa de rol junior AI / Data Engineer
+- 🎓 CE Inteligencia Artificial y Big Data 
 - 🎓 AWS Cloud Practitioner (en progreso)
 
 ---
